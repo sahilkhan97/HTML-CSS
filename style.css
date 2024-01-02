@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav {
+    height: 60px;
+    width: auto;
+    background-color: rgba(39, 85, 66, 0.853);
+    color: white;
+    display: flex;
+    align-items: center;
+
+}
+nav li{
+    list-style-type: none;
+    display: inline;
+    padding: 10px;
+}
+.head{
+    padding-left: 500px;
+}
+.container{
+    background-color: rgba(105, 165, 129, 0.259);
+}
+
+table {
+    border-collapse: collapse;
+}
